@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\bin\Debug\net7.0\Dom Task 2.exe
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\bin\Debug\net7.0\Dom Task 2.deps.json
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\bin\Debug\net7.0\Dom Task 2.runtimeconfig.json
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\bin\Debug\net7.0\Dom Task 2.dll
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\bin\Debug\net7.0\Dom Task 2.pdb
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\obj\Debug\net7.0\Dom Task 2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\obj\Debug\net7.0\Dom Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\obj\Debug\net7.0\Dom Task 2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\obj\Debug\net7.0\Dom Task 2.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\obj\Debug\net7.0\Dom Task 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\obj\Debug\net7.0\Dom Task 2.dll
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\obj\Debug\net7.0\refint\Dom Task 2.dll
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\obj\Debug\net7.0\Dom Task 2.pdb
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\obj\Debug\net7.0\Dom Task 2.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar 5 C#\Dom Task 2\obj\Debug\net7.0\ref\Dom Task 2.dll
